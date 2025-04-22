@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavobonfims&label=Profile%20views&color=0e75b6&style=flat" alt="gustavobonfims" /> </p>
 
-- 🔭 I’m currently working on [Segware](https://www.linkedin.com/company/segwaresigma)
-
-- 🌱 I’m currently working with **React/React Native**
+- 🔭 I’m currently working on [Nubank](https://www.linkedin.com/company/nubank)
 
 - 📫 How to reach me **gustavo.hbonfim@outlook.com**
 
